@@ -6,9 +6,9 @@ programa
 		inteiro valorEmConta, valorDoCarro
 		logico possuiCredito
 
-		valorEmConta = 30000
+		valorEmConta = 20000
 		valorDoCarro = 26000
-		possuiCredito = falso
+		possuiCredito = verdadeiro
 
 		se (valorEmConta >= valorDoCarro ou possuiCredito == verdadeiro){
 			escreva("Pode comprar!")
@@ -24,7 +24,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 145; 
+ * @POSICAO-CURSOR = 122; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
